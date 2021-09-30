@@ -1,2 +1,1 @@
-# IBMGit
-DevAppsToolsInfo
+# MavenExamples
